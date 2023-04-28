@@ -1,2 +1,3 @@
 # mirror-test
-Testing mirroring between GitHub and GitLab
+
+Testing mirroring between GitHub and GitLab.
